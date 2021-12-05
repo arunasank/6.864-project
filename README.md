@@ -9,5 +9,6 @@
 
 Featurization | Model | ROC-AUC | F1-score
 ------------- | ----- | ------- | -------
+N/A | Perfect Classifier | *0.92* | *0.86*
 Bag of words | Gradient Boosting | **0.65** | 0.76
 Word2Vec | Logistic Classifier | 0.61 | **0.78** 
